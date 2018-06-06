@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "潜航器开发、神经网络等算法的理解与经验分享" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+
 
 
 
